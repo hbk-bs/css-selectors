@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<style>
+			/** Descendant selector
+     * Targets span elements that are descendants of div elements.
+     */
+			div span {
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<p>
+				<span
+					>I will be read because somewhere up the tree is a
+					<code>div</code>.</span
+				>
+			</p>
+		</div>
+		<p><span>I wont be like that</span></p>
+	</body>
+</html>

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<style>
+			/** General sibling selector
+    * Targets all p elements that are siblings of h1.
+    */
+			h1 ~ p {
+				color: blue;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Title</h1>
+		<span>Other Tag</span>
+		<p>This will be blue.</p>
+		<div><p>This wont be blue</p></div>
+	</body>
+</html>
