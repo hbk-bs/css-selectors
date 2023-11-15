@@ -7,7 +7,7 @@ These are some common CSS selectors.
 ## element selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -28,7 +28,7 @@ These are some common CSS selectors.
 ## class selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -50,7 +50,7 @@ These are some common CSS selectors.
 ## id selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -71,7 +71,7 @@ These are some common CSS selectors.
 ## attribute selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -94,7 +94,7 @@ These are some common CSS selectors.
 ## pseudo class-selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -115,7 +115,7 @@ These are some common CSS selectors.
 ## pseudo element-selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -136,7 +136,7 @@ These are some common CSS selectors.
 ## child selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -160,7 +160,7 @@ These are some common CSS selectors.
 ## descendant selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -189,7 +189,7 @@ These are some common CSS selectors.
 ## adjacent sibling-selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -212,7 +212,7 @@ These are some common CSS selectors.
 ## general sibling-selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
@@ -236,7 +236,7 @@ These are some common CSS selectors.
 ## universal selector:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<style>
